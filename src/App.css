@@ -1,0 +1,24 @@
+.App{
+text-align: center;
+  margin: 20px;
+}
+.allImages{
+
+  height: 200px;
+  width: 250px;
+  display: inline-flex;
+  margin: 15px;
+}
+
+.basketButton{
+  padding: auto;
+  text-align: justify;
+  font-size: larger;
+  justify-content:space-around;
+  margin: 20px;
+  display: inline-flex;
+  background-color: lightblue;
+  height:50px;
+  width:150px;
+  border-radius: 10px;
+}
